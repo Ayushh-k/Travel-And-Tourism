@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#navItem6 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#navItem7 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.text-center {
+    width: 50%;
+    padding-left: 50px;
+}
+.banner-section-bg-container {
+    background-image: url("./assets/Home.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-color: #f9fbfe;
+}
+
+.banner-heading1 {
+    color: white;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: start;
+}
+
+.banner-heading2 {
+    color: white;
+    font-family: Roboto;
+    font-size: 80px;
+    font-weight: 600;
+    text-align: start;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: start;
+}
+.button {
+    text-align: start;
+}
+
+.custom-outline-button {
+    color: white;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border: none;
+    border-radius: 13px;
+    margin-right: 10px;
+}
+
+.adventure-section {
+    background-color: #f9fbfe;
+    margin-top: 5rem;
+}
+
+.adventure-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.adventure-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    height: 360px;
+}
+
+.adventure-card-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.adventure-card-title {
+    color: #33bd6f;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.adventure-para {
+    height: 110px;
+}
+
+.adventure-card-description {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.adventure_button {
+    border-radius: 16px;
+    color: #000000;
+}
